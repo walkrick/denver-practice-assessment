@@ -15,6 +15,5 @@ Instructions
 --------
 1. Fork and clone this repository
 1. Import the stories in stories.csv into Pivotal Tracker
-1. Add a link to your Pivotal Tracker project to this README
 1. Once you are finished with all the stories, submit the assessment through the
-students app.
+students app. Be sure to include a link to your Pivotal Tracker project.
